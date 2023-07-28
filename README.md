@@ -35,9 +35,10 @@ pip install -r requirements.txt
 ```
 
 ### Running in debug mode (auto-reload)
-```flask --debug run```
+```
+flask --debug run
 
-## Load the site at http://127.0.0.1:5000
+# Load the site at http://127.0.0.1:5000
 ```
 
 ### ⭐️ Support
